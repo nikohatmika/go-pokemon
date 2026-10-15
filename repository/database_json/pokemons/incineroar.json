@@ -1,0 +1,58 @@
+{
+  "name": "incineroar",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0727_00_0.webp",
+  "types": ["fire", "dark"],
+  "base_stat": {
+    "hp": 95,
+    "atk": 115,
+    "def": 90,
+    "spatk": 80,
+    "spdef": 90,
+    "speed": 60
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "mega_attributes": []
+}

@@ -1,0 +1,75 @@
+{
+  "name": "scrafty",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0560_00_0.webp",
+  "types": ["dark", "fighting"],
+  "base_stat": {
+    "hp": 65,
+    "atk": 90,
+    "def": 115,
+    "spatk": 45,
+    "spdef": 115,
+    "speed": 58
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "mega_attributes": [
+    {
+      "mega_category": "mega",
+      "new_icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0560_01_0.webp",
+      "new_types": ["dark", "fighting"],
+      "stat_increases": {
+        "hp": 0,
+        "atk": 40,
+        "def": 20,
+        "spatk": 10,
+        "spdef": 20,
+        "speed": 10
+      },
+      "new_ability": {
+        "name": "intimidate"
+      }
+    }
+  ]
+}

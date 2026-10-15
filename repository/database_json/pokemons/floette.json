@@ -1,0 +1,91 @@
+{
+  "name": "floette",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0670_05_0.webp",
+  "types": ["fairy"],
+  "base_stat": {
+    "hp": 74,
+    "atk": 65,
+    "def": 67,
+    "spatk": 125,
+    "spdef": 128,
+    "speed": 92
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "protect",
+      "popularity": 0
+    },
+    {
+      "name": "dazzling_gleam",
+      "popularity": 0
+    },
+    {
+      "name": "moonblast",
+      "popularity": 0
+    },
+    {
+      "name": "calm_mind",
+      "popularity": 0
+    },
+    {
+      "name": "light_of_ruin",
+      "popularity": 0
+    },
+    {
+      "name": "draining_kiss",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "flower_veil",
+      "popularity": 0
+    },
+    {
+      "name": "symbiosis",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "floetite",
+      "popularity": 0.999
+    },
+    {
+      "name": "fairy_feather",
+      "popularity": 0.001
+    }
+  ],
+  "mega_attributes": [
+    {
+      "mega_category": "mega",
+      "new_icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0670_06_0.webp",
+      "new_types": ["fairy"],
+      "stat_increases": {
+        "hp": 0,
+        "atk": 20,
+        "def": 20,
+        "spatk": 30,
+        "spdef": 20,
+        "speed": 10
+      },
+      "new_ability": {
+        "name": "fairy_aura"
+      }
+    }
+  ]
+}

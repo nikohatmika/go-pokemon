@@ -1,0 +1,58 @@
+{
+  "name": "goodra-hisui",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0706_01_0.webp",
+  "types": ["dragon", "steel"],
+  "base_stat": {
+    "hp": 80,
+    "atk": 100,
+    "def": 100,
+    "spatk": 110,
+    "spdef": 150,
+    "speed": 60
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "mega_attributes": []
+}

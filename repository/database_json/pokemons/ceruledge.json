@@ -1,0 +1,58 @@
+{
+  "name": "ceruledge",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0937_00_0.webp",
+  "types": ["fire", "ghost"],
+  "base_stat": {
+    "hp": 75,
+    "atk": 125,
+    "def": 80,
+    "spatk": 60,
+    "spdef": 100,
+    "speed": 85
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "mega_attributes": []
+}

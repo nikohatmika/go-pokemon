@@ -1,0 +1,11 @@
+{
+    "name": "air_slash",
+    "description": "Has a 30% chance of making the target flinch.",
+    "type": "flying",
+    "category": "special",
+    "power": 75,
+    "accuracy": 0.95,
+    "pp": 16,
+    "priority": 0,
+    "attributes": ["slicing"]
+}

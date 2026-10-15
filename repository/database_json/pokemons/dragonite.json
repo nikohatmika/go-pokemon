@@ -1,0 +1,75 @@
+{
+  "name": "dragonite",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0149_00_0.webp",
+  "types": ["dragon", "flying"],
+  "base_stat": {
+    "hp": 91,
+    "atk": 134,
+    "def": 95,
+    "spatk": 100,
+    "spdef": 100,
+    "speed": 80
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "mega_attributes": [
+    {
+      "mega_category": "mega",
+      "new_icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0149_01_0.webp",
+      "new_types": ["flying", "dragon"],
+      "stat_increases": {
+        "hp": 0,
+        "atk": -10,
+        "def": 20,
+        "spatk": 45,
+        "spdef": 25,
+        "speed": 20
+      },
+      "new_ability": {
+        "name": "multiscale"
+      }
+    }
+  ]
+}

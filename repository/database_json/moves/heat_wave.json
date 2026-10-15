@@ -1,0 +1,11 @@
+{
+    "name": "heat_wave",
+    "description": "Has a 10% chance of burning targets",
+    "type": "fire",
+    "category": "status",
+    "power": 95,
+    "accuracy": 0.9,
+    "pp": 12,
+    "priority": 0,
+    "attributes": ["wind"]
+}

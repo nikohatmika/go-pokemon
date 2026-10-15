@@ -1,0 +1,75 @@
+{
+  "name": "scizor",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0212_00_0.webp",
+  "types": ["bug", "steel"],
+  "base_stat": {
+    "hp": 70,
+    "atk": 130,
+    "def": 100,
+    "spatk": 55,
+    "spdef": 80,
+    "speed": 65
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "technician",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "mega_attributes": [
+    {
+      "mega_category": "mega",
+      "new_icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0212_01_0.webp",
+      "new_types": ["bug", "steel"],
+      "stat_increases": {
+        "hp": 0,
+        "atk": 20,
+        "def": 40,
+        "spatk": 10,
+        "spdef": 20,
+        "speed": 10
+      },
+      "new_ability": {
+        "name": "technician"
+      }
+    }
+  ]
+}

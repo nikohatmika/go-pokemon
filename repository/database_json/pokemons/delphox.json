@@ -1,0 +1,81 @@
+{
+  "name": "delphox",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0655_00_0.webp",
+  "types": [
+    "fire",
+    "psychic"
+  ],
+  "base_stat": {
+    "hp": 75,
+    "atk": 69,
+    "def": 72,
+    "spatk": 114,
+    "spdef": 100,
+    "speed": 104
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "mega_attributes": [
+    {
+      "mega_category": "mega",
+      "new_icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0655_01_0.webp",
+      "new_types": [
+        "fire",
+        "psychic"
+      ],
+      "stat_increases": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spatk": 45,
+        "spdef": 25,
+        "speed": 30
+      },
+      "new_ability": {
+        "name": "levitate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "name": "garchomp",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0445_00_0.webp",
+  "types": ["dragon", "ground"],
+  "base_stat": {
+    "hp": 108,
+    "atk": 130,
+    "def": 95,
+    "spatk": 80,
+    "spdef": 85,
+    "speed": 102
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "mega_attributes": [
+    {
+      "mega_category": "mega",
+      "new_icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0445_01_0.webp",
+      "new_types": ["dragon", "ground"],
+      "stat_increases": {
+        "hp": 0,
+        "atk": 40,
+        "def": 20,
+        "spatk": 40,
+        "spdef": 15,
+        "speed": -10
+      },
+      "new_ability": {
+        "name": "sand_force"
+      }
+    }
+  ]
+}

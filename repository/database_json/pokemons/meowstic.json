@@ -1,0 +1,75 @@
+{
+  "name": "meowstick",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0678_00_0.webp",
+  "types": ["psychic"],
+  "base_stat": {
+    "hp": 74,
+    "atk": 48,
+    "def": 76,
+    "spatk": 83,
+    "spdef": 81,
+    "speed": 104
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "mega_attributes": [
+    {
+      "mega_category": "mega",
+      "new_icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0678_02_0.webp",
+      "new_types": ["psychic"],
+      "stat_increases": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spatk": 60,
+        "spdef": 20,
+        "speed": 20
+      },
+      "new_ability": {
+        "name": "trace"
+      }
+    }
+  ]
+}

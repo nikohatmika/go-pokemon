@@ -1,0 +1,78 @@
+{
+  "name": "kingambit",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0983_00_0.webp",
+  "types": ["dark", "steel"],
+  "base_stat": {
+    "hp": 100,
+    "atk": 135,
+    "def": 120,
+    "spatk": 60,
+    "spdef": 85,
+    "speed": 50
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "sucker_punch",
+      "popularity": 0
+    },
+    {
+      "name": "kowtow_cleave",
+      "popularity": 0
+    },
+    {
+      "name": "protect",
+      "popularity": 0
+    },
+    {
+      "name": "iron_head",
+      "popularity": 0
+    },
+    {
+      "name": "low_kick",
+      "popularity": 0
+    },
+    {
+      "name": "swords_dance",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "defiant",
+      "popularity": 0
+    },
+    {
+      "name": "supreme_overlord",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "black_glasses",
+      "popularity": 0
+    },
+    {
+      "name": "chopple_berry",
+      "popularity": 0
+    },
+    {
+      "name": "focus_sash",
+      "popularity": 0
+    }
+  ],
+  "mega_attributes": []
+}

@@ -1,0 +1,81 @@
+{
+  "name": "blaziken",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0257_00_0.webp",
+  "types": [
+    "fire",
+    "fighting"
+  ],
+  "base_stat": {
+    "hp": 80,
+    "atk": 120,
+    "def": 70,
+    "spatk": 110,
+    "spdef": 70,
+    "speed": 80
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "mega_attributes": [
+    {
+      "mega_category": "mega",
+      "new_icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0257_01_0.webp",
+      "new_types": [
+        "fire",
+        "fighting"
+      ],
+      "stat_increases": {
+        "hp": 0,
+        "atk": 40,
+        "def": 10,
+        "spatk": 20,
+        "spdef": 10,
+        "speed": 20
+      },
+      "new_ability": {
+        "name": "speed_boost"
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "name": "basculegion",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0902_00_0.webp",
+  "types": ["water", "ghost"],
+  "base_stat": {
+    "hp": 120,
+    "atk": 112,
+    "def": 65,
+    "spatk": 80,
+    "spdef": 75,
+    "speed": 78
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "last_respects",
+      "popularity": 0
+    },
+    {
+      "name": "aqua_jet",
+      "popularity": 0
+    },
+    {
+      "name": "wave_crash",
+      "popularity": 0
+    },
+    {
+      "name": "protect",
+      "popularity": 0
+    },
+    {
+      "name": "flip_turn",
+      "popularity": 0
+    },
+    {
+      "name": "liquidation",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "adaptability",
+      "popularity": 0
+    },
+    {
+      "name": "swift_swim",
+      "popularity": 0
+    },
+    {
+      "name": "mold_breaker",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "choice_scarf",
+      "popularity": 0.38
+    },
+    {
+      "name": "mystic_water",
+      "popularity": 0.255
+    },
+    {
+      "name": "life_orb",
+      "popularity": 0.167
+    },
+    {
+      "name": "focus_sash",
+      "popularity": 0.133
+    }
+  ],
+  "mega_attributes": []
+}

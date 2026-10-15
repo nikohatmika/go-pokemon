@@ -1,0 +1,91 @@
+{
+  "name": "pelipper",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0279_00_0.webp",
+  "types": ["water", "flying"],
+  "base_stat": {
+    "hp": 60,
+    "atk": 50,
+    "def": 100,
+    "spatk": 95,
+    "spdef": 70,
+    "speed": 65
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "mega_attributes": [
+    {
+      "mega_category": "mega y",
+      "new_icon": "",
+      "new_types": ["", ""],
+      "stat_increases": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spatk": 0,
+        "spdef": 0,
+        "speed": 0
+      },
+      "new_ability": {
+        "name": ""
+      }
+    },
+    {
+      "mega_category": "mega x",
+      "new_icon": "",
+      "new_types": ["", ""],
+      "stat_increases": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spatk": 0,
+        "spdef": 0,
+        "speed": 0
+      },
+      "new_ability": {
+        "name": ""
+      }
+    }
+  ]
+}

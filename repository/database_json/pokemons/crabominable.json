@@ -1,0 +1,75 @@
+{
+  "name": "crabominable",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0740_00_0.webp",
+  "types": ["fighting", "ice"],
+  "base_stat": {
+    "hp": 97,
+    "atk": 132,
+    "def": 77,
+    "spatk": 62,
+    "spdef": 67,
+    "speed": 43
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "mega_attributes": [
+    {
+      "mega_category": "mega",
+      "new_icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0740_01_0.webp",
+      "new_types": ["fighting", "ice"],
+      "stat_increases": {
+        "hp": 0,
+        "atk": 25,
+        "def": 45,
+        "spatk": 0,
+        "spdef": 40,
+        "speed": -10
+      },
+      "new_ability": {
+        "name": "iron_fist"
+      }
+    }
+  ]
+}

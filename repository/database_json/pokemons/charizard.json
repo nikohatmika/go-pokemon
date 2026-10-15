@@ -1,0 +1,116 @@
+{
+    "name": "charizard",
+    "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0006_00_0.webp",
+    "types": [
+        "fire",
+        "flying"
+    ],
+    "base_stat": {
+        "hp": 78,
+        "atk": 84,
+        "def": 78,
+        "spatk": 109,
+        "spdef": 85,
+        "speed": 100
+    },
+    "common_alignments": [
+        {
+            "name": "modest",
+            "popularity": 0.682
+        },
+        {
+            "name": "timid",
+            "popularity": 0.26
+        },
+        {
+            "name": "adamant",
+            "popularity": 0.027
+        }
+    ],
+    "common_moves": [
+        {
+            "name": "protect",
+            "popularity": 0.962
+        },
+        {
+            "name": "heat_wave",
+            "popularity": 0.957
+        },
+        {
+            "name": "solar_beam",
+            "popularity": 0.93
+        },
+        {
+            "name": "weather_ball",
+            "popularity": 0.733
+        },
+        {
+            "name": "air_slash",
+            "popularity": 0.115
+        },
+        {
+            "name": "ancient_power",
+            "popularity": 0.037
+        }
+    ],
+    "common_abilities": [
+        {
+            "name": "blaze",
+            "popularity": 0.754
+        },
+        {
+            "name": "solar_power",
+            "popularity": 0.246
+        }
+    ],
+    "common_items": [
+        {
+            "name": "charizardite_y",
+            "popularity": 0.952
+        },
+        {
+            "name": "charizardite_x",
+            "popularity": 0.041
+        }
+    ],
+    "mega_attributes": [
+        {
+            "mega_category": "mega y",
+            "new_icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0006_02_0.webp",
+            "new_types": [
+                "fire",
+                "flying"
+            ],
+            "stat_increases": {
+                "hp": 0,
+                "atk": 20,
+                "def": 0,
+                "spatk": 50,
+                "spdef": 30,
+                "speed": 0
+            },
+            "new_ability": {
+                "name": "drought"
+            }
+        },
+        {
+            "mega_category": "mega x",
+            "new_icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0006_01_0.webp",
+            "new_types": [
+                "fire",
+                "dragon"
+            ],
+            "stat_increases": {
+                "hp": 0,
+                "atk": 46,
+                "def": 33,
+                "spatk": 21,
+                "spdef": 0,
+                "speed": 0
+            },
+            "new_ability": {
+                "name": "tough_claws"
+            }
+        }
+    ]
+}

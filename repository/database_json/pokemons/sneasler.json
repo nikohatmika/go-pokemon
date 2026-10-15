@@ -1,0 +1,74 @@
+{
+  "name": "sneasler",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0903_00_0.webp",
+  "types": ["fighting", "poison"],
+  "base_stat": {
+    "hp": 80,
+    "atk": 130,
+    "def": 60,
+    "spatk": 40,
+    "spdef": 80,
+    "speed": 120
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "close_combat",
+      "popularity": 0
+    },
+    {
+      "name": "fake_out",
+      "popularity": 0
+    },
+    {
+      "name": "dire_claw",
+      "popularity": 0
+    },
+    {
+      "name": "protect",
+      "popularity": 0
+    },
+    {
+      "name": "coaching",
+      "popularity": 0
+    },
+    {
+      "name": "gunk_shot",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "unburden",
+      "popularity": 0
+    },
+    {
+      "name": "poison_touch",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "white_herb",
+      "popularity": 0
+    },
+    {
+      "name": "focus_sash",
+      "popularity": 0
+    }
+  ],
+  "mega_attributes": []
+}

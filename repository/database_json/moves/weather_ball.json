@@ -1,0 +1,11 @@
+{
+    "name": "weather_ball",
+    "description": "When a weather condition is present, this move’s power is doubled and its type changes. Harsh sunlight: Fire type. Rain: Water type. Snow: Ice type. Sandstorm: Rock type.",
+    "type": "normal",
+    "category": "special",
+    "power": 50,
+    "accuracy": 1,
+    "pp": 12,
+    "priority": 0,
+    "attributes": ["ball_&_bomb"]
+}

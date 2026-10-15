@@ -1,0 +1,91 @@
+{
+  "name": "raichu",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0026_00_0.webp",
+  "types": ["electric"],
+  "base_stat": {
+    "hp": 60,
+    "atk": 90,
+    "def": 55,
+    "spatk": 90,
+    "spdef": 80,
+    "speed": 110
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "mega_attributes": [
+    {
+      "mega_category": "mega y",
+      "new_icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0026_03_0.webp",
+      "new_types": ["electric"],
+      "stat_increases": {
+        "hp": 0,
+        "atk": 10,
+        "def": 0,
+        "spatk": 70,
+        "spdef": 0,
+        "speed": 20
+      },
+      "new_ability": {
+        "name": "no_guard"
+      }
+    },
+    {
+      "mega_category": "mega x",
+      "new_icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0026_02_0.webp",
+      "new_types": ["electric"],
+      "stat_increases": {
+        "hp": 0,
+        "atk": 45,
+        "def": 40,
+        "spatk": 0,
+        "spdef": 15,
+        "speed": 0
+      },
+      "new_ability": {
+        "name": "electric_surge"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+    "serious": "+Atk,-Atk",
+    "lonely": "+Atk,-Def",
+    "adamant": "+Atk,-SpAtk",
+    "naughty": "+Atk,-SpDef",
+    "brave": "+Atk,-Speed",
+    "bold": "+Def,-Atk",
+    "impish": "+Def,-SpAtk",
+    "lax": "+Def,-SpDef",
+    "relaxed": "+Def,-Speed",
+    "modest": "+SpAtk,-Atk",
+    "mild": "+SpAtk,-Def",
+    "rash": "+SpAtk,-SpDef",
+    "quiet": "+SpAtk,-speed",
+    "calm": "+SpDef,-Atk",
+    "gentle": "+SpDef,-Def",
+    "careful": "+SpDef,-SpAtk",
+    "sassy": "+SpDef,-Speed",
+    "timid": "+Speed,-Atk",
+    "hasty": "+SpDef,-Def",
+    "jolly": "+SpDef,-SpAtk",
+    "naive": "+SpDef,-SpDef"
+}

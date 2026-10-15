@@ -1,0 +1,75 @@
+{
+  "name": "mawile",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0303_00_0.webp",
+  "types": ["steel", "fairy"],
+  "base_stat": {
+    "hp": 50,
+    "atk": 85,
+    "def": 85,
+    "spatk": 55,
+    "spdef": 55,
+    "speed": 50
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "mega_attributes": [
+    {
+      "mega_category": "mega",
+      "new_icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0303_01_0.webp",
+      "new_types": ["steel", "fairy"],
+      "stat_increases": {
+        "hp": 0,
+        "atk": 20,
+        "def": 40,
+        "spatk": 55,
+        "spdef": 40,
+        "speed": 0
+      },
+      "new_ability": {
+        "name": "huge_power"
+      }
+    }
+  ]
+}

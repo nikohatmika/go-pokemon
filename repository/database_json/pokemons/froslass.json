@@ -1,0 +1,81 @@
+{
+  "name": "froslass",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0478_00_0.webp",
+  "types": [
+    "ice",
+    "ghost"
+  ],
+  "base_stat": {
+    "hp": 70,
+    "atk": 80,
+    "def": 70,
+    "spatk": 80,
+    "spdef": 70,
+    "speed": 110
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "mega_attributes": [
+    {
+      "mega_category": "mega",
+      "new_icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0478_01_0.webp",
+      "new_types": [
+        "ice",
+        "ghost"
+      ],
+      "stat_increases": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spatk": 60,
+        "spdef": 30,
+        "speed": 10
+      },
+      "new_ability": {
+        "name": "snow_warning"
+      }
+    }
+  ]
+}

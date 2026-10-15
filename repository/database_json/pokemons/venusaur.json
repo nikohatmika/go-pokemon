@@ -1,0 +1,75 @@
+{
+  "name": "venusaur",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0003_00_0.webp",
+  "types": ["grass", "poison"],
+  "base_stat": {
+    "hp": 80,
+    "atk": 82,
+    "def": 83,
+    "spatk": 100,
+    "spdef": 100,
+    "speed": 80
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "mega_attributes": [
+    {
+      "mega_category": "mega",
+      "new_icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0003_01_0.webp",
+      "new_types": ["grass", "poison"],
+      "stat_increases": {
+        "hp": 0,
+        "atk": 18,
+        "def": 20,
+        "spatk": 22,
+        "spdef": 20,
+        "speed": 80
+      },
+      "new_ability": {
+        "name": "thick_fat"
+      }
+    }
+  ]
+}

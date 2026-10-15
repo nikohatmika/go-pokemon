@@ -1,0 +1,75 @@
+{
+  "name": "chandelure",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0609_00_0.webp",
+  "types": ["ghost", "fire"],
+  "base_stat": {
+    "hp": 60,
+    "atk": 55,
+    "def": 90,
+    "spatk": 145,
+    "spdef": 90,
+    "speed": 80
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "mega_attributes": [
+    {
+      "mega_category": "mega",
+      "new_icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0609_01_0.webp",
+      "new_types": ["ghost", "fire"],
+      "stat_increases": {
+        "hp": 0,
+        "atk": 20,
+        "def": 20,
+        "spatk": 30,
+        "spdef": 20,
+        "speed": 10
+      },
+      "new_ability": {
+        "name": "infiltrator"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "ancient_power",
+    "description": "Has a 10% chance of boosting the user’s Attack, Defense, Sp. Atk, Sp. Def, and Speed stats by 1 stage.",
+    "type": "rock",
+    "category": "",
+    "power": 60,
+    "accuracy": 1,
+    "pp": 8,
+    "priority": 0,
+    "attributes": []
+}

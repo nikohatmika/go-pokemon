@@ -1,0 +1,75 @@
+{
+  "name": "manectric",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0310_00_0.webp",
+  "types": ["electric"],
+  "base_stat": {
+    "hp": 70,
+    "atk": 75,
+    "def": 60,
+    "spatk": 105,
+    "spdef": 60,
+    "speed": 105
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "mega_attributes": [
+    {
+      "mega_category": "mega",
+      "new_icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0310_01_0.webp",
+      "new_types": ["electric"],
+      "stat_increases": {
+        "hp": 0,
+        "atk": 0,
+        "def": 20,
+        "spatk": 30,
+        "spdef": 20,
+        "speed": 30
+      },
+      "new_ability": {
+        "name": "intimidate"
+      }
+    }
+  ]
+}

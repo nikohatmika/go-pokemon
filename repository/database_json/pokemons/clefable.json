@@ -1,0 +1,75 @@
+{
+  "name": "clefable",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0036_00_0.webp",
+  "types": ["fairy"],
+  "base_stat": {
+    "hp": 95,
+    "atk": 70,
+    "def": 73,
+    "spatk": 95,
+    "spdef": 90,
+    "speed": 60
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "mega_attributes": [
+    {
+      "mega_category": "mega",
+      "new_icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0036_01_0.webp",
+      "new_types": ["fairy", "flying"],
+      "stat_increases": {
+        "hp": 0,
+        "atk": 10,
+        "def": 20,
+        "spatk": 40,
+        "spdef": 20,
+        "speed": 10
+      },
+      "new_ability": {
+        "name": "magic_bounce"
+      }
+    }
+  ]
+}

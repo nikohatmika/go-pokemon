@@ -1,0 +1,81 @@
+{
+  "name": "tyranitar",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0248_00_0.webp",
+  "types": [
+    "rock",
+    "dark"
+  ],
+  "base_stat": {
+    "hp": 100,
+    "atk": 134,
+    "def": 110,
+    "spatk": 95,
+    "spdef": 100,
+    "speed": 61
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "mega_attributes": [
+    {
+      "mega_category": "m ega",
+      "new_icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0248_01_0.webp",
+      "new_types": [
+        "rock",
+        "dark"
+      ],
+      "stat_increases": {
+        "hp": 0,
+        "atk": 30,
+        "def": 40,
+        "spatk": 0,
+        "spdef": 20,
+        "speed": 11
+      },
+      "new_ability": {
+        "name": "sand_stream"
+      }
+    }
+  ]
+}

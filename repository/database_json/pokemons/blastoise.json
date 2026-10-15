@@ -1,0 +1,75 @@
+{
+  "name": "blastoise",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0009_00_0.webp",
+  "types": ["water"],
+  "base_stat": {
+    "hp": 79,
+    "atk": 83,
+    "def": 100,
+    "spatk": 85,
+    "spdef": 105,
+    "speed": 78
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "mega_attributes": [
+    {
+      "mega_category": "mega",
+      "new_icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0009_01_0.webp",
+      "new_types": ["water"],
+      "stat_increases": {
+        "hp": 0,
+        "atk": 20,
+        "def": 20,
+        "spatk": 50,
+        "spdef": 10,
+        "speed": 0
+      },
+      "new_ability": {
+        "name": "mega_launcher"
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "name": "gyarados",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0130_00_0.webp",
+  "types": ["water", "flying"],
+  "base_stat": {
+    "hp": 95,
+    "atk": 125,
+    "def": 79,
+    "spatk": 60,
+    "spdef": 100,
+    "speed": 81
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "mega_attributes": [
+    {
+      "mega_category": "mega",
+      "new_icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0130_01_0.webp",
+      "new_types": ["water", "dark"],
+      "stat_increases": {
+        "hp": 0,
+        "atk": 30,
+        "def": 30,
+        "spatk": 10,
+        "spdef": 30,
+        "speed": 81
+      },
+      "new_ability": {
+        "name": "mold_breaker"
+      }
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "name": "pyroar",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0668_00_0.webp",
+  "types": [
+    "fire",
+    "normal"
+  ],
+  "base_stat": {
+    "hp": 86,
+    "atk": 68,
+    "def": 72,
+    "spatk": 109,
+    "spdef": 66,
+    "speed": 106
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "mega_attributes": [
+    {
+      "mega_category": "mega",
+      "new_icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0668_01_0.webp",
+      "new_types": [
+        "fire",
+        "normal"
+      ],
+      "stat_increases": {
+        "hp": 0,
+        "atk": 20,
+        "def": 20,
+        "spatk": 20,
+        "spdef": 20,
+        "speed": 20
+      },
+      "new_ability": {
+        "name": "fire_mane"
+      }
+    }
+  ]
+}

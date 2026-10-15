@@ -1,0 +1,75 @@
+{
+  "name": "excadrill",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0530_00_0.webp",
+  "types": ["ground", "steel"],
+  "base_stat": {
+    "hp": 110,
+    "atk": 135,
+    "def": 60,
+    "spatk": 50,
+    "spdef": 65,
+    "speed": 88
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "mega_attributes": [
+    {
+      "mega_category": "mega",
+      "new_icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0530_01_0.webp",
+      "new_types": ["ground", "steel"],
+      "stat_increases": {
+        "hp": 0,
+        "atk": 30,
+        "def": 40,
+        "spatk": 15,
+        "spdef": 0,
+        "speed": 15
+      },
+      "new_ability": {
+        "name": "piercing_drill"
+      }
+    }
+  ]
+}

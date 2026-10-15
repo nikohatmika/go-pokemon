@@ -1,0 +1,99 @@
+{
+  "name": "metagross",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0376_00_0.webp",
+  "types": ["steel", "psychic"],
+  "base_stat": {
+    "hp": 80,
+    "atk": 135,
+    "def": 130,
+    "spatk": 95,
+    "spdef": 90,
+    "speed": 70
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "protect",
+      "popularity": 0
+    },
+    {
+      "name": "psychic_fangs",
+      "popularity": 0
+    },
+    {
+      "name": "iron_head",
+      "popularity": 0
+    },
+    {
+      "name": "stomping_tantrum",
+      "popularity": 0
+    },
+    {
+      "name": "bullet_punch",
+      "popularity": 0
+    },
+    {
+      "name": "body_press",
+      "popularity": 0
+    },
+    {
+      "name": "ice_punch",
+      "popularity": 0
+    },
+    {
+      "name": "meteor_mash",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "clear_body",
+      "popularity": 0
+    },
+    {
+      "name": "light_metal",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "metagrossite",
+      "popularity": 0
+    },
+    {
+      "name": "life_orb",
+      "popularity": 0
+    }
+  ],
+  "mega_attributes": [
+    {
+      "mega_category": "mega",
+      "new_icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0376_01_0.webp",
+      "new_types": ["steel", "psychic"],
+      "stat_increases": {
+        "hp": 0,
+        "atk": 10,
+        "def": 20,
+        "spatk": 10,
+        "spdef": 20,
+        "speed": 40
+      },
+      "new_ability": {
+        "name": "tough_claws"
+      }
+    }
+  ]
+}

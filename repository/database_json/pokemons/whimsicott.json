@@ -1,0 +1,82 @@
+{
+  "name": "whimsicott",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0547_00_0.webp",
+  "types": ["grass", "fairy"],
+  "base_stat": {
+    "hp": 60,
+    "atk": 67,
+    "def": 85,
+    "spatk": 77,
+    "spdef": 75,
+    "speed": 116
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "tailwind",
+      "popularity": 0
+    },
+    {
+      "name": "moonblast",
+      "popularity": 0
+    },
+    {
+      "name": "encore",
+      "popularity": 0
+    },
+    {
+      "name": "protect",
+      "popularity": 0
+    },
+    {
+      "name": "charm",
+      "popularity": 0
+    },
+    {
+      "name": "sunnny_day",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "focus_sash",
+      "popularity": 0
+    },
+    {
+      "name": "fairy_feather",
+      "popularity": 0
+    },
+    {
+      "name": "mental_herb",
+      "popularity": 0
+    },
+    {
+      "name": "coba_berry",
+      "popularity": 0
+    }
+  ],
+  "mega_attributes": []
+}

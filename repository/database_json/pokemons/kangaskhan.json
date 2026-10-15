@@ -1,0 +1,75 @@
+{
+  "name": "kangaskhan",
+  "icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0115_00_0.webp",
+  "types": ["normal"],
+  "base_stat": {
+    "hp": 105,
+    "atk": 95,
+    "def": 80,
+    "spatk": 40,
+    "spdef": 80,
+    "speed": 90
+  },
+  "common_alignments": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_moves": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_abilities": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "common_items": [
+    {
+      "name": "",
+      "popularity": 0
+    },
+    {
+      "name": "",
+      "popularity": 0
+    }
+  ],
+  "mega_attributes": [
+    {
+      "mega_category": "mega",
+      "new_icon": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0115_01_0.webp",
+      "new_types": ["normal"],
+      "stat_increases": {
+        "hp": 0,
+        "atk": 30,
+        "def": 20,
+        "spatk": 20,
+        "spdef": 20,
+        "speed": 10
+      },
+      "new_ability": {
+        "name": "parental_bond"
+      }
+    }
+  ]
+}
